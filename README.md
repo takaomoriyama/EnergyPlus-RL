@@ -1,8 +1,6 @@
 # EnergyPlus-RL
-A Reinforcement Learning Testbed for EnergyPlus
+Reinforcement Learning Testbed for Power Consumption Optimization.
 
-We are currently proceeding internal procedure to publish this software as open source.
-Hopefully, this will be done in a few weeks.
-Thank you for your patience.
+We have moved to https://github.com/IBM/rl-testbed-for-energyplus
 
-(July 28, 2018. Takao Moriyama)
+(Aug. 9, 2018. Takao Moriyama)
